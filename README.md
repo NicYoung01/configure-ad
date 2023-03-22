@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Created Domain Controller VM and Client VM (Domain Controller will host Active Directory)
 - Changed the Domain Controllers private IP address to "Static"
 - Allowed Domain Controller to receive connection from Client 
-- Installed Acitve Direcory on Domain Controller
+- Installed Active Directory on Domain Controller
 - Changed Client VM DNS server to Domain Controllers private IP address
 - Added Client VM to the Active Directory 
 
